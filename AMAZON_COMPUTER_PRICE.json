@@ -1,7 +1,13 @@
 {
+<<<<<<< HEAD
     "sheet_name":"顯示卡",
     "title":[
         "ASUS",
+=======
+    "sheet_name":["第一頁","第二頁"],
+    "title":[
+        "XFX",
+>>>>>>> b7208ff... hi
         "ACER"
     ]   
 }
