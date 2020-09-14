@@ -1,7 +1,18 @@
 {
-    "sheet_name":"顯示卡",
-    "title":[
-        "ASUS",
-        "ACER"
-    ]   
+    "sheet_name": [
+        "顯示卡",
+        "第二頁"
+    ],
+    "title": [
+        "MSI微星",
+        "ZOTAC",
+        "EVGA",
+        "Sapphire",
+        "MSI",
+        "GIGABYTE",
+        "Gigabyte",
+        "NVIDIA",
+        "PowerColor",
+        "XFX"
+    ]
 }
