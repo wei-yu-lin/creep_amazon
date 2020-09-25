@@ -1,13 +1,15 @@
 {
-<<<<<<< HEAD
-    "sheet_name":"顯示卡",
-    "title":[
+    "sheet_name": "顯示卡",
+    "title": [
+        "PowerColor",
+        "EVGA",
+        "Gigabyte",
+        "Sapphire",
+        "MSI微星",
+        "NVIDIA",
+        "MSI",
         "ASUS",
-=======
-    "sheet_name":["第一頁","第二頁"],
-    "title":[
-        "XFX",
->>>>>>> b7208ff... hi
-        "ACER"
-    ]   
+        "ZOTAC",
+        "XFX"
+    ]
 }
